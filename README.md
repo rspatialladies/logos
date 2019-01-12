@@ -1,6 +1,4 @@
 # Logos for R Spatial Ladies
-To store R Spatial Ladies logos 
-
 Includes hex sticker ready designs, original graphic, and circle and square graphics. Thank you [Allison Horst](https://github.com/allisonhorst) for the design!
 
 To download a specific graphic, click on graphic to go to link to download image. 
